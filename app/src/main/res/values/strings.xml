@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="question1">The human skeleton is made up of less than 100 bones.</string>
+    <string name="question2">There are 8 colours on the rainbow</string>
+    <string name="question3">The square root of 25 is 5</string>
+    <string name="question4">We have 28 alphabets</string>
+    <string name="question5">There are 10 continents in the world</string>
+    <string name="question6">Electrons are larger than molecules.</string>
+    <string name="question7">The Atlantic Ocean is the biggest ocean on Earth.</string>
+    <string name="question8">The human body has four lungs.</string>
+    <string name="question9"> Conductors have low resistance.</string>
+    <string name="question10">The study of plants is known as botany.</string>
+
+    <string name="answer_true">true</string>
+    <string name="answer_false">false</string>
+    <string name="next_button">NEXT</string>
+    <string name="previous_button">PREVIOUS</string>
+    <string name="app_title">Pop Quiz</string>
+    <string name="started">GET STARTED</string>
+    <string name="guess">GUESS GAME</string>
+    <string name="quiz">RANDOM QUIZ</string>
+</resources>
